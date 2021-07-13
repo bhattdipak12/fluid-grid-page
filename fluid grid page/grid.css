@@ -1,0 +1,158 @@
+body {
+background-color:#ffcdb2;
+font-family:sans-serif;
+font-style:italic;
+}
+h1 {
+    color: #e76f51;
+}
+h3 {
+    color: #e76f51;
+}
+.grid-layout {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #e76f51;
+    padding: 10px;
+    border: 2px solid white; 
+}
+.grid-content1 { 
+    border: 2px solid white;
+    height:400px;
+    width:auto;
+}
+.grid-content2 { 
+    border: 2px solid white; 
+    height:400px;
+    width:auto;
+}
+.grid-content3 { 
+    border: 2px solid white; 
+    height:400px;
+    width:auto;
+}
+.grid-content4 { 
+    border: 2px solid white; 
+    height:400px;
+    width:auto;
+}
+.grid-content5 { 
+    border: 2px solid white; 
+    height:400px;
+    width:auto;
+}
+.grid-content6 { 
+    border: 2px solid white; 
+    height:400px;
+    width:auto;
+}
+.grid-content7 { 
+    border: 2px solid white; 
+    height:400px;
+    width:auto;
+}
+.grid-content8 { 
+    border: 2px solid white; 
+    height:400px;
+    width:auto;
+}
+.grid-content9 { 
+    border: 2px solid white; 
+    height:400px;
+    width:auto;
+}
+.grid-content1:hover {
+    background:url(dog.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    border: 1px solid white;
+    font-size: 30px;
+    text-align: center;
+    width:auto;
+    height:400px;
+}
+.grid-content2:hover {
+    background:url(parot.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    font-size: 30px;
+    text-align: center;
+    width:auto;
+    height:400px;
+}
+.grid-content3:hover {
+    background:url(rabbit.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    font-size: 30px;
+    text-align: center;
+    width:auto;
+    height:400px;
+}
+.grid-content4:hover {
+    background:url(fish.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    font-size: 30px;
+    text-align: center;
+    width:auto;
+    height:400px;
+}
+.grid-content5:hover {
+    background:url(mouse.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+   font-size: 30px;
+    text-align: center;
+    width:auto;
+    height:400px;
+}
+.grid-content6:hover {
+    background:url(horse.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+   font-size: 30px;
+    text-align: center;
+    width:auto;
+    height:400px;
+}
+.grid-content7:hover {
+    background:url(cat.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+   font-size: 30px;
+    text-align: center;
+    width:auto;
+    height:400px;
+}
+.grid-content8:hover {
+    background:url(lizard.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    font-size: 30px;
+    text-align: center;
+    width:auto;
+    height:400px;
+}
+.grid-content9:hover {
+    background:url(spider.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    font-size: 30px;
+    text-align: center;
+    width:auto;
+    height:400px;
+}
+.grid-content:hover {
+    background-color: yellow;
+}
+p {
+text-align:center;
+font-size:30px;
+color:white;
+}
+p:hover {
+    color: red;
+text-align:center;
+}
+
